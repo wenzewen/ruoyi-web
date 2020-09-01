@@ -62,6 +62,7 @@ export default {
 .icons-container {
   margin: 10px 20px 0;
   overflow: hidden;
+}
 
   .icon-item {
     margin: 20px;
@@ -83,5 +84,5 @@ export default {
   .disabled {
     pointer-events: none;
   }
-}
+
 </style>
